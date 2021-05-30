@@ -1,0 +1,124 @@
+#main {
+  margin: 0 0 -120px 0;
+  background-color: #000000;
+  border: 7px solid;
+  border-color: #fc5404;
+}
+
+#img {
+  width: 1245px;
+  height: 520px;
+  margin-bottom: 0;
+  max-width: 100%
+}
+
+#title {
+  margin: 0;
+  text-align: center;
+  color: White;
+  font-family: "Mate Sc";
+  position: relative;
+  bottom: 45px;
+  font-size: 100px;
+}
+
+#butto {
+  position: relative;
+  bottom: 200px;
+  left: 800px;
+}
+#sec-butto{
+  position: relative;
+  left: 550px;
+  bottom: 70px;
+}
+
+.intro {
+  text-align: center;
+  color: White;
+  margin: auto 10px 0 10px;
+  padding-bottom: 5px;
+}
+
+.timeline {
+  color: White;
+  text-align: left;
+}
+
+.line {
+  color: gold;
+  background-color: gold;
+  height: 1px;
+  width: 30%;
+}
+
+.second-hr {
+  margin-bottom: 25px;
+}
+
+.tab-p {
+  text-align: center;
+  color: White;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+table, th, td {
+  border: 2px solid #fc5404;
+  color: White;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
+
+.below-tab-p {
+  margin: 25px 10px auto 10px;
+  color: White;
+  margin-left: 220px;
+  position: relative;
+  bottom: 230px;
+}
+
+.animated-gif {
+  max-width: 100%;
+  width: 200px;
+  height: auto;
+  max-height: 100%;
+  margin-left: 5px;
+  margin-top: 25px;
+}
+
+.link-tri{
+  color: White;
+  text-align: center;
+  position: relative;
+
+}
+
+.animated-stick{
+  position: relative;
+  bottom: 250px;
+
+}
+.animated-sticker{
+  position: relative;
+  bottom: 250px;
+}
+
+#linkedin:link{
+  color: White;
+}
+#linkedin:hover{
+  color: Blue;
+
+}
+#last-p{
+  position: relative;
+  bottom: 200px;
+}
+.foot{
+  position: relative;
+  bottom: 200px;
+margin-bottom: auto;
+}
